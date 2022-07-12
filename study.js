@@ -255,7 +255,7 @@
 // let ad = addr.split("");
 // console.log(ad);
 
-let jumsu = [89,78,87,97,80];
+// let jumsu = [89,78,87,97,80];
 // jumsu.sort((current, next) => current-next);
 // console.log(jumsu);
 // jumsu.reduce(함수(이전값, 현재값){
@@ -272,6 +272,3 @@ let jumsu = [89,78,87,97,80];
 //   return 333;
 // }
 
-let result = jumsu.reduce(function (prev) {
-  
-})
